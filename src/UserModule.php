@@ -13,8 +13,6 @@ namespace gearsoftware\user;
 
 /**
  * User Module For Yii2
- *
- * @author José Peña <joepa37@gmail.com>
  */
 class UserModule extends \yii\base\Module
 {
