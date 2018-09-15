@@ -1,0 +1,22 @@
+{
+  "name": "gearsoftware/yii2-user",
+  "description": "User Module For Yii2",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "José Peña",
+      "email": "joepa37@gmail.com"
+    }
+  ],
+  "require": {
+    "gearsoftware/yii2-core": "~0.1.0",
+    "gearsoftware/yii2-auth": "~0.1.0",
+    "webvimark/date-range-picker": "~1.0.2",
+    "ikimea/browser": "~1.14"
+  },
+  "autoload": {
+    "psr-4": {
+      "gearsoftware\\user\\": "src"
+    }
+  }
+}
