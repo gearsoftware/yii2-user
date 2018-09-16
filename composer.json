@@ -9,8 +9,8 @@
     }
   ],
   "require": {
-    "gearsoftware/yii2-core": "~1.0.0",
-    "gearsoftware/yii2-auth": "~1.0.0",
+    "gearsoftware/yii2-core": "@dev",
+    "gearsoftware/yii2-auth": "@dev",
     "webvimark/date-range-picker": "~1.0.2",
     "ikimea/browser": "~1.14"
   },
